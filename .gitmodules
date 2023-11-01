@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/kprepublic/bm40hsrgb/rev2/keymaps/bm40_eh"]
+	path = keyboards/kprepublic/bm40hsrgb/rev2/keymaps/bm40_eh
+	url = git@github.com:eduhoribe/bm40_eh.git
